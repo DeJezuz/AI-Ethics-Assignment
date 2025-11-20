@@ -1,0 +1,11 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Fairness toolkit
+aif360
+
+# Notebook environment
+jupyter
